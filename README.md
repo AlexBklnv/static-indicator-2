@@ -1,0 +1,1 @@
+# static-indicator-2
